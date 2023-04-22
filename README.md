@@ -4,4 +4,4 @@ Neste projeto, utilizei as bibliotecas OpenCv e Keras para criar um sistema de d
 
 ## Resultado
 
-![Resultado de um teste com webcam]("https://github.com/casjunior93/desafio-dio-criando-um-sistema-de-reconhecimento-facial/raw/main/photo.jpg")
+![Resultado de um teste com webcam]("[https://github.com/casjunior93/desafio-dio-criando-um-sistema-de-reconhecimento-facial/raw/main/photo.jpg](https://github.com/casjunior93/desafio-dio-criando-um-sistema-de-reconhecimento-facial/blob/main/photo.jpg)")
