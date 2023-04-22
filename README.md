@@ -1,6 +1,6 @@
 # Desafio DIO: Criando um Sistema de Reconhecimento Facial do Zero
 
-Neste projeto, utilizei as bibliotecas OpenCv e Keras para criar um sistema de detecção e classificação da minha face e da face do meu filho.
+Neste projeto, utilizei as bibliotecas OpenCv e Keras/Tensorflow para criar um sistema de detecção e classificação da minha face e da face do meu filho.
 
 ## Resultado
 
